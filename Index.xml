@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="Cookies.xsl"?> 
+<flavoured_cakes>
+<food>
+    <name> JwalaSri</name>
+    <name_cake> White Forest</name_cake>
+    <quantity>250g</quantity>
+    <description> It's a spin on the traditional black forest cake.
+    It is made of layers of chocolate cake soaked in some kind of Kirsch or cherry based syrup layered
+    with cherries and cream and frosted with more cream and covered in chocolate decorations.</description>
+</food>
+<food>
+    <name> Abirami</name>
+    <name_cake> Black Forest</name_cake>
+    <quantity>500g</quantity>
+    <description>The Black Forest is a wooded mountain range in Baden-Württemberg, southwestern Germany. 
+    he name Black Forest comes from the general dark color of the numerous pine trees that grow in this region.
+    The Black Forest gateau originated from this region.
+    </description>
+</food>
+<food>
+    <name> Bala</name>
+    <name_cake> Dutch Truffle</name_cake>
+    <quantity>500g</quantity>
+    <description> uxurious layer cake is for you. 
+    With a ganache glaze and a fabulous bittersweet filling, the indulgence is so worth it.
+    </description>
+</food>
+<food>
+    <name> Ajith</name>
+    <name_cake> Butterscoth cake</name_cake>
+    <quantity>1000g</quantity>
+    <description> Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt.
+    Butterscotch is similar to toffee, but for butterscotch, the sugar is boiled to the soft crack stage, not hard crack as with toffee.
+    </description>
+</food>
+<food>
+    <name>Narmada</name>
+    <name_cake> Red Velvet</name_cake>
+    <quantity> 250g</quantity>
+    <description> Red velvet cake is the queen of all layer cakes. 
+    It's the sweet marriage of buttermilk and vanilla with a little cocoa for good measure.
+    </description>
+</food>
+<food>
+    <name> Nandhini</name>
+    <name_cake> Choco walnut</name_cake>
+    <quantity> 500g</quantity>
+    <description> Walnuts filled with chocolate bomb cake.
+    </description>
+</food>
+</flavoured_cakes>

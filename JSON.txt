@@ -1,0 +1,38 @@
+[
+   {
+      "name": "JwalaSri",
+      "name_cake": "White Forest",
+      "quantity": "250g",
+      "description": "It's a spin on the traditional black forest cake.\n    It is made of layers of chocolate cake soaked in some kind of Kirsch or cherry based syrup layered\n    with cherries and cream and frosted with more cream and covered in chocolate decorations."
+   },
+   {
+      "name": "Abirami",
+      "name_cake": "Black Forest",
+      "quantity": "500g",
+      "description": "The Black Forest is a wooded mountain range in Baden-Württemberg, southwestern Germany. \n    he name Black Forest comes from the general dark color of the numerous pine trees that grow in this region.\n    The Black Forest gateau originated from this region."
+   },
+   {
+      "name": "Bala",
+      "name_cake": "Dutch Truffle",
+      "quantity": "500g",
+      "description": "uxurious layer cake is for you. \n    With a ganache glaze and a fabulous bittersweet filling, the indulgence is so worth it."
+   },
+   {
+      "name": "Ajith",
+      "name_cake": "Butterscoth cake",
+      "quantity": "1000g",
+      "description": "Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt.\n    Butterscotch is similar to toffee, but for butterscotch, the sugar is boiled to the soft crack stage, not hard crack as with toffee."
+   },
+   {
+      "name": "Narmada",
+      "name_cake": "Red Velvet",
+      "quantity": "250g",
+      "description": "Red velvet cake is the queen of all layer cakes. \n    It's the sweet marriage of buttermilk and vanilla with a little cocoa for good measure."
+   },
+   {
+      "name": "Nandhini",
+      "name_cake": "Choco walnut",
+      "quantity": "500g",
+      "description": "Walnuts filled with chocolate bomb cake."
+   }
+]

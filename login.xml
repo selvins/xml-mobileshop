@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<login>
+<register>
+    <name> JwalaSri</name>
+    <email> jwala@student.tce.edu</email>
+    <phone_no>6379972220</phone_no>
+    <delivery>Chennai</delivery>
+</register>
+<register>
+    <name> Shobika</name>
+    <email> shobika@student.tce.edu</email>
+    <phone_no>6379677820</phone_no>
+    <delivery>Madurai</delivery>
+</register>
+<register>
+    <name> Sangavi</name>
+    <email> sangavi@student.tce.edu</email>
+    <phone_no>9500067822</phone_no>
+    <delivery>Chennai</delivery>
+</register>
+<register>
+    <name> Kavina</name>
+    <email> kavina@student.tce.edu</email>
+    <phone_no>9486432155</phone_no>
+    <delivery>Madurai</delivery>
+</register>
+<register>
+    <name> Logesh</name>
+    <email> logesh@student.tce.edu</email>
+    <phone_no>9443126755</phone_no>
+    <delivery>Chennai</delivery>
+</register>
+
+</login>

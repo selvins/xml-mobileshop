@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: chartreuse;">
+<center>
+<h2>Login Details</h2>
+<h2> Register</h2>
+
+<p id="flavour"></p>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText);
+    document.getElementById("flavour").innerHTML = myObj.name;
+  }
+};
+xmlhttp.open("GET", "json_demo.txt", true);
+xmlhttp.send();
+</script>
+<form>
+    <label for="fname">Enter your name:</label>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Username:</label>
+    <input type="text" id="lname" name="lname"><br>
+    <label for="fname">Password</label>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Confirm Password</label>
+    <input type="text" id="lname" name="lname"><br>
+      
+</form>
+<button type="submit" form="form1" value="Submit">Submit</button>
+
+<p>For more details,click <a href="json_cake.txt" target="_blank">json_cake.txt</a></p>
+</center>
+
+</body>
+</html>

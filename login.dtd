@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT login (register)+>
+<!ATTLIST login
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT register (name,email,phone_no,delivery)>
+<!ATTLIST register
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone_no (#PCDATA)>
+<!ATTLIST phone_no
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT delivery (#PCDATA)>
+<!ATTLIST delivery
+  xmlns CDATA #FIXED ''>

@@ -1,0 +1,11 @@
+<!DOCTYPE org
+[
+    <!ELEMENT Flavoured_cakes (food)>
+    <!ELEMENT food (name,name_cake,quantity,description)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT name_cake (#PCDATA)>
+    <!ELEMENT quantity (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ATTLIST name_cake # REQUIRED>
+    <!ATTLIST quantity (200g/500g/1000g) "500g">
+]>
